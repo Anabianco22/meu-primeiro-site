@@ -1,4 +1,4 @@
-header  {
+   header  {
     background-color: rgb(172, 105, 172);
     color: #FFFFFF;
     text-align: center;
